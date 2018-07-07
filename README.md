@@ -1,5 +1,12 @@
 # ATHLETICONS
 
+* [Usage](#usage)
+* [Setup](#setup)
+* [Test Locally](#test-locally)
+* [Thanks](#thanks)
+* [Suggestions](#suggestions)
+
+
 Icons
 ======
 
@@ -8,14 +15,14 @@ Icons
 Usage
 =====
 
-1. After following setup steps:
-* Use with unicode (codes found in image above^)
+After following setup steps:
+1. Use with unicode (codes found in image above^)
 ```html
 <input type="text" value="&#xe902;" class="athleticons" />
 ```
 * Don't forget to add the athleticons class with this method!
 
-* Use with class
+2. Use with class
 ```html
 <span class="icon-tennis"></span>
 ```
