@@ -5,6 +5,21 @@ Icons
 
 ![alt text](https://raw.githubusercontent.com/marclanepitt/athleticons/master/icon-info.png)
 
+Usage
+=====
+
+1. After following setup steps:
+* Use with unicode (codes found in image above^)
+```html
+<input type="text" value="&#xe902;" class="athleticons" />
+```
+* Don't forget to add the athleticons class with this method!
+
+* Use with class
+```html
+<span class="icon-tennis"></span>
+```
+
 Setup
 ======
 
