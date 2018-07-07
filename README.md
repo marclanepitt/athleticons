@@ -3,7 +3,7 @@
 * [Usage](#usage)
 * [Setup](#setup)
 * [Test Locally](#test-locally)
-* [Thanks](#thanks)
+* [Thanks](#special-thanks)
 * [Suggestions](#suggestions)
 
 
