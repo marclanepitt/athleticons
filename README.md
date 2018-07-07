@@ -8,6 +8,7 @@ Setup
 
 1. Add fonts in font folder to your project
 2. Add to css
+style.css
 ```css
 @font-face {
   font-family: 'athleticons';
@@ -124,7 +125,7 @@ Test Locally
 Special Thanks
 ======
 
-[FontAwesome](https://fontawesome.com/icons?d=gallery) for inspiration
+[FontAwesome](https://fontawesome.com/icons?d=gallery) for inspiration and
 [IcoMoon](icomoon.io) for generating this repository
 
 Suggestions?
